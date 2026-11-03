@@ -5,6 +5,7 @@ Lab1
 27: https://leetcode.com/problems/remove-element/submissions/2188169671
 
 lab2
+
 20: https://leetcode.com/problems/valid-parentheses/submissions/2188170145
 
 160: https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2188170696
